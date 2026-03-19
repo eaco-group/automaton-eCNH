@@ -350,3 +350,7 @@ Display: Real-time dashboard or smart contract integration.
 Transparency: Third-party verification (Solscan, Dexscreener, Raydium Analytics).
 
 This document is now fully translated and structured for Web3 developers to implement eCNH exchange rate monitoring and auto-adjustment in decentralized applications.
+
+
+
+<img width="1024" height="1536" alt="eCNH Global Exchange Rate Reference Document (Web3 Developer Edition)202603 " src="https://github.com/user-attachments/assets/e662da14-4dc7-4c60-8286-3ed9d6a7838d" />

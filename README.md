@@ -191,3 +191,7 @@ scripts/
 ## License
 
 MIT
+
+
+
+<img width="1024" height="1536" alt="image use Automaton + eCNH to earth AI world profit." src="https://github.com/user-attachments/assets/c1731188-d104-4413-8f85-e57f0a4ae915" />

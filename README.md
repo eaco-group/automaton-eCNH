@@ -194,4 +194,9 @@ MIT
 
 
 
-<img width="1024" height="1536" alt="image use Automaton + eCNH to earth AI world profit." src="https://github.com/user-attachments/assets/c1731188-d104-4413-8f85-e57f0a4ae915" />
+
+
+
+
+
+<img width="1024" height="1536" alt="use Automaton + eCNH to earth AI world profit.6fdd3c7b2046d466827032989a53781e" src="https://github.com/user-attachments/assets/b2830903-e0df-414d-b9ae-9b5fc9f9e118" />

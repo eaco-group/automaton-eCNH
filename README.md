@@ -20,6 +20,10 @@ https://raydium.io/liquidity-pools/?token=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuin
 
 https://app.meteora.ag/dlmm/5X1XqymjmPTyCQRursrzdCJx4jTJHqgqQ6UrxwTRqFZt
 
+https://app.uniswap.org/explore/tokens/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://pancakeswap.finance/swap?chain=sol&outputCurrency=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
 https://ai-ecnh.base44.app/
 
 https://github.com/eaco-group/openclaw-eCNH

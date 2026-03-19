@@ -5,16 +5,24 @@ eCNH CA:
 7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 About eCNH,
+
 https://orbmarkets.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
 https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
 https://ai-ecnh.base44.app/
+
 https://github.com/eaco-group/openclaw-eCNH
 
 eCNH,
 earth CNH = eCNH = europe CNH = energy CNH ,
+
 1 eCNH ≈ 0.1205 EUR ≈ 0.1353-0.1463 USD ≈ 1 CNH .
+
 use Automaton + eCNH to earth AI world profit.
+
 ---
+
 
 # Automaton: Self-Improving, Self-Replicating, Sovereign AI
 

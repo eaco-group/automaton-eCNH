@@ -1,12 +1,16 @@
 # Automaton + eCNH 
 earth & Global Humanity Builds and Shares eCNH Together.
 
+
 eCNH CA:
+
 7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 About eCNH,
 
 https://orbmarkets.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
